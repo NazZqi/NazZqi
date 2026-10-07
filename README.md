@@ -5,7 +5,7 @@
 
 <h3><code>NazZqi@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="NazZqi's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
@@ -19,8 +19,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./profile-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+<td valign="top"><img src="./profile-ascii.svg" width="420" alt="Ignacio Mendoza — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="NazZqi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
 <br>
@@ -29,20 +29,9 @@
 <h3><code>NazZqi@github ~ $ ./links.sh</code></h3>
 
 <p><b>Junior Fullstack · Backend · Computer Engineering Student </b></p>
-<p align="center">
-  <a href="https://linkedin.com/in/igciomndzalpz">
-    <img src="https://img.shields.io/badge/LinkedIn-igciomndzalpz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/not_nazzqi">
-    <img src="https://img.shields.io/badge/Instagram-not__nazzqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
--->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-igciomndzalpz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igciomndzalpz)
+[![Instagram](https://img.shields.io/badge/Instagram-@not__nazzqi-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/not_nazzqi)
 <br>
 
 </div>
