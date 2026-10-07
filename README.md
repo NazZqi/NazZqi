@@ -17,13 +17,14 @@
 
 <h3><code>NazZqi@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
-</tr>
+<td valign="top">
+      <img src="./profile-ascii.svg" width="370" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" />
+    </td>
+  </tr>
 </table>
-
 <br>
 <br>
 
