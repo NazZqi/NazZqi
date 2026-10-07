@@ -32,6 +32,54 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-igciomndzalpz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igciomndzalpz)
 [![Instagram](https://img.shields.io/badge/Instagram-@not__nazzqi-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/not_nazzqi)
+[![Email](https://img.shields.io/badge/Email-mendoza.ig.an@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mendoza.ig.an@gmail.com)
 <br>
 
 </div>
+
+---
+
+## 👋 Hola, soy Ignacio (Nazdev)
+
+💻 Estudiante avanzado de Ingeniería Civil Informática · Universidad de Valparaíso
+⚙️ Desarrollador Junior Backend & Full Stack
+
+---
+
+## 🚀 Sobre mí
+Tengo base sólida en algoritmos, estructuras de datos y programación orientada a objetos. Vengo de soporte técnico universitario (DTIC UV), donde aprendí autonomía, priorización y comunicación asíncrona. Busco roles backend o fullstack en startups y equipos remotos.
+
+---
+
+## 📌 En lo que estoy ahora
+- 💻 Construyendo **Visión Asistida** (Python, Clean Code, arquitectura desacoplada)
+- 🧱 Profundizando en backend y arquitectura de software
+- 🤖 Usando IA y Copilot como apoyo de desarrollo
+
+---
+
+## 🛠 Tecnologías
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,git,github,jira,trello&theme=dark" alt="Tecnologías" />
+</p>
+
+**Metodologías:** Scrum · Agile · Cascada (Waterfall)
+
+**IA:** GitHub Copilot · LLMs
+
+---
+
+## 📂 Proyecto destacado
+**Visión Asistida** · Python
+Sistema de asistencia visual que procesa e interpreta información estructurada. Código modular, documentado y extensible.
+
+---
+
+## 🎯 Objetivo
+Crecer como desarrollador backend/fullstack y aportar en equipos ágiles y remotos.
+
+---
+
+## ✨ Un poco de mí
+_"El esfuerzo le gana al talento."_
