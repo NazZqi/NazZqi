@@ -17,21 +17,20 @@
 
 <h3><code>NazZqi@github ~ $ whoami</code></h3>
 
-<td valign="top">
-      <img src="./profile-ascii.svg" width="370" />
-    </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="490" />
-    </td>
-  </tr>
+<table>
+<tr>
+<td valign="top"><img src="./profile-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
 </table>
 <br>
 <br>
 
 <h3><code>NazZqi@github ~ $ ./links.sh</code></h3>
 
-<p><b>Fullstack Developer · Backend · </b></p>
-
+<p><b>Junior Fullstack · Backend · Computer Engineering Student </b></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/igciomndzalpz)
+[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/not_nazzqi)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
 [![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
