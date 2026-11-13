@@ -52,7 +52,7 @@ Tengo base sólida en algoritmos, estructuras de datos y programación orientada
 ---
 
 ## 📌 En lo que estoy ahora
-- 💻 Construyendo **Visión Asistida** (Python, Clean Code, arquitectura desacoplada)
+- 💰 Construyendo **FinanSY**: app para ahorrar con amigos (Rust, Axum, PostgreSQL)
 - 🧱 Profundizando en backend y arquitectura de software
 - 🤖 Usando IA y Copilot como apoyo de desarrollo
 
@@ -61,7 +61,13 @@ Tengo base sólida en algoritmos, estructuras de datos y programación orientada
 ## 🛠 Tecnologías
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,git,github,jira,trello&theme=dark" alt="Tecnologías" />
+<img src="https://skillicons.dev/icons?i=python,rust,dart,ts,js,java,c,cpp,html,css&theme=dark" alt="Lenguajes" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,express,postgres,mongodb,sqlite,supabase,firebase,pytorch,opencv&theme=dark" alt="Frameworks y bases de datos" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,htmx&theme=dark" alt="Herramientas" />
 </p>
 
 **Metodologías:** Scrum · Agile · Cascada (Waterfall)
@@ -70,9 +76,15 @@ Tengo base sólida en algoritmos, estructuras de datos y programación orientada
 
 ---
 
-## 📂 Proyecto destacado
-**Visión Asistida** · Python
-Sistema de asistencia visual que procesa e interpreta información estructurada. Código modular, documentado y extensible.
+## 📂 Proyectos destacados
+**[FinanSY](https://github.com/NazZqi/FinanSY)** · Rust · PostgreSQL · HTMX
+App web para ahorrar en grupo hacia una meta común: aportes, ranking, rachas, retos y simulador de ahorro frente a compra en cuotas. Backend en Rust (Axum), PostgreSQL en Supabase, login con Google, pruebas automatizadas y CI.
+
+**[Ruteando](https://github.com/NazZqi/pruebas-ruteando)** · Flutter · Firebase · Google Maps
+App móvil para optimizar rutas de reparto de última milla. Proyecto universitario en equipo con Scrum.
+
+**[Visión Asistida](https://github.com/NazZqi/vision_asistida)** · Python · PyTorch · OpenCV
+Asistente visual en tiempo real: estima profundidad con MiDaS y detecta obstáculos desde la cámara, con alertas visuales y por voz.
 
 ---
 
